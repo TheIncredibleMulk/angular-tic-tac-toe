@@ -1,6 +1,6 @@
 # MyApp
 
-Project taken from Fireship.io's [Angular TicTacToe Intro](https://fireship.io/courses/angular/start-angular-beginner-tutorial/) [Github Link](https://github.com/fireship-io/angular-tic-tac-toe)
+Project taken from Fireship.io's [Angular TicTacToe Intro](https://fireship.io/courses/angular/start-angular-beginner-tutorial/) original source code => [Github Link](https://github.com/fireship-io/angular-tic-tac-toe)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
